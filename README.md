@@ -19,9 +19,9 @@
 
 <br>
 
-<!-- ✨ MASSIVE VIRAL ASSET: A GIF placeholder. GitHub renders this perfectly. ✨ -->
+<!-- ✨ MASSIVE VIRAL ASSET: Application Demonstration ✨ -->
 <a href="#">
-  <img src="https://live.staticflickr.com/65535/53415132204_0b73c4c995_o.gif" width="700" alt="App Animation Example Placeholder" onerror="this.style.display='none'"/>
+  <img src="./asscam_demo.webp" width="800" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);" alt="ASSCAM Live Demonstration" onerror="this.style.display='none'"/>
 </a>
 
 <br>
