@@ -21,7 +21,7 @@
 
 <!-- ✨ MASSIVE VIRAL ASSET: Application Demonstration ✨ -->
 <a href="#">
-  <img src="./asscam_demo.webp" width="800" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);" alt="ASSCAM Live Demonstration" onerror="this.style.display='none'"/>
+  <img src="./image.png" width="800" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.4);" alt="ASSCAM Live Demonstration" onerror="this.style.display='none'"/>
 </a>
 
 <br>
