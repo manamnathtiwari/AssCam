@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Matrix Rain Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=ASSCAM%20STUDIO&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Real-Time%20AI-Powered%20ASCII%20Camera%20Engine&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=ASSCICAM%20STUDIO&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Real-Time%20AI-Powered%20ASCII%20Camera%20Engine&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&pause=1200&color=6B9DFF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=90&lines=%E2%9A%A1+60fps+WebWorker+Rendering+Engine;%F0%9F%A7%A0+TensorFlow.js+Neural+Net+Auto-Tune;%F0%9F%92%8E+Glassmorphic+Studio+UI+%E2%9C%A8" alt="Typing SVG" /></a>
